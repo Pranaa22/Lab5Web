@@ -1,5 +1,7 @@
 # Tugas dan Praktikum Lab5Web<br>
 
+[Form Validasi](https://pranaa22.github.io/Lab4Web/)<br>
+<br>
 **Mengenal JavaScript**<br>
 <img src="/Lab5Web(File)/JS1.png" img><br>
 
