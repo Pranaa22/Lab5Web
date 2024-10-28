@@ -7,11 +7,11 @@
 <img src="/Lab5Web(File)/alertbox.png" img><br>
  
 **Skrip Javascript**<br>
-<img src="/Lab5Web(File)/skrip_js.png" img><br>
+<img src="/Lab5Web(File)/skripjs.png" img><br>
 
 **Pemakaian Prompt (Pemasukan data)** <br>
-<img src="/Lab5Web(File)/skrip_js2.png" img><br>
-<img src="/Lab5Web(File)/skrip_js3.png" img><br>
+<img src="/Lab5Web(File)/skripjs2.png" img><br>
+<img src="/Lab5Web(File)/skripjs3.png" img><br>
  
 **Pembuatan Fungsi dan Cara Pemanggilannya**<br>
 <img src="/Lab5Web(File)/pembuatan_fungsi.png" img><br> 
@@ -37,10 +37,10 @@
 <img src="/Lab5Web(File)/form_button.png" img><br> 
 
 **Pilihan Menggunakan CheckBox Dengan Perhitungan Otomatis (Daftar Menu)** <br>
-<img src="/Lab5Web(File)/daftar_menu .png" img><br>
+<img src="/Lab5Web(File)/daftar_menu.png" img><br>
  
 
 **Pertanyaan dan Tugas**<br>
 1. Buat script untuk melakukan validasi pada isian form<br>
-<img src="/Lab5Web(File)/form_validasi" img><br> 
+<img src="/Lab5Web(File)/form_validasi.png" img><br> 
 
