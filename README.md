@@ -1,7 +1,7 @@
 # Tugas dan Praktikum Lab5Web<br>
 
 **Mengenal JavaScript**<br>
-<img src="/Lab4Web(File)/about.png" img><br>
+<img src="/Lab5Web(File)/about.png" img><br>
 
 **Alert Box**<br>
  
