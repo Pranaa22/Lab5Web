@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Form Validasi</title>
+    <script>
+      function validateForm() {
+        // Ambil nilai dari form
+        const name = document.forms["myForm"]["name"].value;
+        const email = document.forms["myForm"]["email"].value;
+        const password = document.forms["myForm"]["password"].value;
+        const phone = document.forms["myForm"]["phone"].value;
+
+        // Validasi Nama
+        if (name == "") {
+          alert("Nama harus diisi!");
+          return false;
+        }
+
+        // Validasi Email
+        const emailPattern = /^[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,6}$/;
+        if (!emailPattern.test(email)) {
+          alert("Email tidak valid!");
+          return false;
+        }
+
+        // Validasi Password (Minimal 8 karakter)
+        if (password.length < 8) {
+          alert("Password harus memiliki minimal 8 karakter!");
+          return false;
+        }
+
+        // Validasi Nomor Telepon (Hanya angka, panjang 10-15 digit)
+        const phonePattern = /^[0-9]{10,15}$/;
+        if (!phonePattern.test(phone)) {
+          alert("Nomor telepon tidak valid! Harus 10-15 digit angka.");
+          return false;
+        }
+
+        // Jika semua validasi lulus
+        alert("Form berhasil divalidasi!");
+        return true;
+      }
+    </script>
+  </head>
+  <body>
+    <h2>Form Validasi</h2>
+    <form name="myForm" onsubmit="return validateForm()">
+      <label for="name">Nama:</label><br />
+      <input type="text" id="name" name="name" /><br /><br />
+
+      <label for="email">Email:</label><br />
+      <input type="text" id="email" name="email" /><br /><br />
+
+      <label for="password">Password:</label><br />
+      <input type="password" id="password" name="password" /><br /><br />
+
+      <label for="phone">Nomor Telepon:</label><br />
+      <input type="text" id="phone" name="phone" /><br /><br />
+
+      <input type="submit" value="Submit" />
+    </form>
+  </body>
+</html>
