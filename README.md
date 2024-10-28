@@ -1,38 +1,40 @@
-# Tugas dan Praktikum Lab5Web
-Mengenal JavaScript
+# Tugas dan Praktikum Lab5Web<br>
+
+**Mengenal JavaScript**<br>
+<img src="/Lab4Web(File)/about.png" img><br>
+
+**Alert Box**<br>
  
-Alert Box
+**Skrip Javascript**<br>
  
-Skrip Javascript
- 
-Pemakaian Prompt (Pemasukan data)
+**Pemakaian Prompt (Pemasukan data)**<br>
  
  
-Pembuatan Fungsi dan Cara Pemanggilannya
+**Pembuatan Fungsi dan Cara Pemanggilannya**<br>
  
 
-Operasi dasar aritmatika
+**Operasi dasar aritmatika**<br>
  
  
-Contoh if-else
+**Contoh if-else**<br>
  
  
  
  
-Penggunaan Operator Switch
+**Penggunaan Operator Switch**<br>
  
  
-Pembuatan Form Input
+**Pembuatan Form Input**<br>
  
-Pembuatan Form Button
- 
-
-
-
-Pilihan Menggunakan CheckBox Dengan Perhitungan Otomatis (Daftar Menu)
+**Pembuatan Form Button**<br>
  
 
-Pertanyaan dan Tugas
+
+
+**Pilihan Menggunakan CheckBox Dengan Perhitungan Otomatis (Daftar Menu)**<br>
+ 
+
+**Pertanyaan dan Tugas**<br>
 1. Buat script untuk melakukan validasi pada isian form
  
 
