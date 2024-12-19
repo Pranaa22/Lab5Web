@@ -1,5 +1,4 @@
-# Tugas dan Praktikum Lab5Web
-Tugas Pertemuan 6 Pemrograman Web 1 <br>
+# Tugas Pertemuan 6 Pemrograman Web 1 
 
 [Form Validasi](https://pranaa22.github.io/Lab5Web/)<br>
 <br>
